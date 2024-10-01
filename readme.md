@@ -1,4 +1,4 @@
-# nyx-logger
+# nyx-file
 
 Nyx File is a lightweight JavaScript module designed to simplify file management in your Node.js applications. This module offers a series of robust features for manipulating files and folders, making it easy to work with the file system.
 
