@@ -1,22 +1,24 @@
 {
   "name": "nyx-file",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Nyx File is a lightweight JavaScript module designed to simplify file management in your Node.js applications. This module offers a series of robust features for manipulating files and folders, making it easy to work with the file system.",
   "main": "manager.js",
   "keywords": [
-    "log",
-    "log file",
-    "logging",
-    "console"
+    "file",
+    "folder",
+    "manager",
+    "file manager"
   ],
   "author": "Zenith",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zenith-engine/nyx-logger.git"
+    "url": "https://github.com/zenith-engine/nyx-file.git"
   },
   "homepage": "https://github.com/zenith-engine/",
   "files": [
-    "index.js",
+    "file/*",
+    "folder/*",
+    "manager.js",
     "readme.md"
   ],
   "license": "MIT",
