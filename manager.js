@@ -1,5 +1,6 @@
 const file = require('./file/file');
 const folder = require('./folder/folder');
+const checkForUpdates = require('./checker');
 
 const get_base_dir = (type) => {
     switch (type) {
@@ -30,6 +31,8 @@ const create_main_folder = (type, folderName) => {
         }
     });
 };
+
+checkForUpdates();
 
 const file_manager = {
     ...file,
