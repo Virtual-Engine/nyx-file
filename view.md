@@ -1,7 +1,6 @@
 # nyx-file
 
-- Nyx File is a lightweight JavaScript module designed to simplify file management in your Node.js applications. This module offers a series of robust features for manipulating files and folders, making it easy to work with the file system.
-- https://www.npmjs.com/package/nyx-file
+Nyx File is a lightweight JavaScript module designed to simplify file management in your Node.js applications. This module offers a series of robust features for manipulating files and folders, making it easy to work with the file system.
 
 # Features
 - Create files: Create files with specified initial content.
@@ -91,5 +90,5 @@ file_manager.folder.list('./folder');
 # Contributions
 Contributions are welcome! If you'd like to improve the module, don't hesitate to submit a pull request.
 
-License
+# License
 This project is licensed under the MIT license. See the LICENSE file for more information.
